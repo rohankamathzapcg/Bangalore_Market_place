@@ -1,4 +1,4 @@
-# Bangalore Web Application
+# Bangalore Market Place Web Application
 
 This is a simple web application for user to buy fruits and vegetables.
 
